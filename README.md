@@ -10,10 +10,10 @@ Make sure you're directory is in home
 First install git if you haven't 
 `pkg install git`
 Then do 
-`git clone https://github.com/GeorgeCY2/metasploit-framework-v2`
-Now do `ls` and you should see a directory named "metasploit-framework-v2"
+`git clone https://github.com/GeorgeCY2/metasploit-framework-installer-v2`
+Now do `ls` and you should see a directory named "metasploit-framework-installer-v2"
 Now do
-`cd metasploit-framework-v2`
+`cd metasploit-framework-installer-v2`
 The run the sh file
 `sh msfinstallerv2.sh`
 And you wait and instructions will popup and input so choosing is an option
