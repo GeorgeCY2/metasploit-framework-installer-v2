@@ -1,7 +1,7 @@
-## metasploit-framework Installer v2
+# metasploit-framework Installer v2
 Maybe not a v2 but the purpose is to help and solve most issues for termux so yeah! 
 (For the package)
-# LICENSE
+## LICENSE
 All rights for metasploit to the owners, I do not own the app nor the program and company who created it.
 The installer is open source and can be used for everyone who has issues!
 # How to install 
