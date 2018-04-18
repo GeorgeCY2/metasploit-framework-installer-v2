@@ -43,3 +43,5 @@ And you wait and instructions will popup and input so choosing is an option
 
 Alright you are done!
 
+Also prompts will appear during packaging installation so be sure to lookout!
+
