@@ -4,6 +4,8 @@ echo This sh installer will install packages for the fix, then will install meta
 echo ------------------------------------------------------------------------
 echo this will take time so go ahead and do something else untill its done, also make sure you may have space [100+ MB]
 echo ------------------------------------------------------------------------
+echo Also in packaging installation there will be prompts so be sure to lookout during packaging installation and accept them! 
+echo ------------------------------------------------------------------------
 echo Proceed [Y]?? {N wont work so still proceed or exit?}
 tput -S
 echo Still Proceed? [Last Warning]
