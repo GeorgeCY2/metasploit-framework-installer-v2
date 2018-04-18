@@ -23,7 +23,7 @@ Then do
 `git clone https://github.com/GeorgeCY2/metasploit-framework-installer-v2`
 
 
-Nowdo`ls` and you should see a directory named "metasploit-framework-installer-v2"
+Now do`ls` and you should see a directory named "metasploit-framework-installer-v2"
 
 
 Now do
