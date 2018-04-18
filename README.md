@@ -38,7 +38,7 @@ Then run the sh file
 `sh msfinstallerv2.sh`
 
 
-Andyou wait and instructions will popup and input so choosing is an option
+And you wait and instructions will popup and input so choosing is an option
 
 
 Alright you are done!
