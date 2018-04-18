@@ -45,11 +45,4 @@ echo DONE PACKAGING, MOVING TO METASPLOIT INSTALLATION
 cd $HOME
 wget https://Auxilus.github.io/metasploit.sh
 bash metasploit.sh
-
-
-
-
-
-
-
-
+logout 276322
